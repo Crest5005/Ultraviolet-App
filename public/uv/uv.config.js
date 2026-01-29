@@ -1,7 +1,7 @@
 // Inside uv/uv.config.js
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://uv.student-portal.workers.dev/', 
+    bare: 'https://uv.radon.games/bare/', 
     handler: '/uv/uv.handler.js', 
     bundle: '/uv/uv.bundle.js', 
     config: '/uv/uv.config.js',
